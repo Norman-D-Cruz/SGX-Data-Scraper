@@ -1,4 +1,4 @@
-# **DTL Data Engineer Mini-project**
+# **Mini-project**
 ### A scraper designed to daily download SGX derivatives data.
 
 ---
